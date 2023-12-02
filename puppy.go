@@ -10,7 +10,10 @@ func Barks() string {
 }
 
 func Version() string {
-	return "Woof! Woof!"
+	return "This is version 1.0.0"
 }
 
+func Version2() string {
+	return "This is version 2.0.0"
+}
 
