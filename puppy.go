@@ -8,3 +8,9 @@ func Bark() string {
 func Barks() string {
 	return "Woof! Woof!"
 }
+
+func Version() string {
+	return "Woof! Woof!"
+}
+
+
